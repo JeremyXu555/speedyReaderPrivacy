@@ -1,1 +1,2 @@
-Replace the contents in the <main></main> tag.
+ - Replace the contents in the <main></main> tag.
+ - Make sure to change className to class.
